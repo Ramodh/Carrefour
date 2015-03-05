@@ -1,0 +1,232 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>BG1NB490</Machine>
+    <WindowsUser>ramodhkumar.k</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>c5d40e64-654b-4818-a9eb-bb3f69e58bd1</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\ramodhkumar.k\Desktop\Health&amp;Glow\HealthAndGlow-3-4\HealthAndGlow\HealthAndGlow\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\ramodhkumar.k\Desktop\Health&amp;Glow\HealthAndGlow-3-4\HealthAndGlow\HealthAndGlow\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\ramodhkumar.k\Desktop\Health&amp;Glow\HealthAndGlow-3-4\HealthAndGlow\HealthAndGlow\bin\Debug\HealthAndGlow.exe">
+      <PackagePath>HealthAndGlow.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ramodhkumar.k\Desktop\Health&amp;Glow\HealthAndGlow-3-4\HealthAndGlow\packages\Coding4Fun.Toolkit.Controls.2.1.0\lib\wpa81\Coding4Fun.Toolkit.Controls.dll">
+      <PackagePath>Coding4Fun.Toolkit.Controls.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ramodhkumar.k\Desktop\Health&amp;Glow\HealthAndGlow-3-4\HealthAndGlow\packages\Coding4Fun.Toolkit.Controls.2.1.0\lib\wpa81\Coding4Fun.Toolkit.dll">
+      <PackagePath>Coding4Fun.Toolkit.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ramodhkumar.k\Desktop\Health&amp;Glow\HealthAndGlow-3-4\HealthAndGlow\packages\Newtonsoft.Json.6.0.8\lib\portable-net40+sl5+wp80+win8+wpa81\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ramodhkumar.k\Desktop\Health&amp;Glow\HealthAndGlow-3-4\HealthAndGlow\HealthAndGlow\Assets\AddtoCartButton.png">
+      <PackagePath>Assets\AddtoCartButton.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ramodhkumar.k\Desktop\Health&amp;Glow\HealthAndGlow-3-4\HealthAndGlow\HealthAndGlow\Assets\bag.png">
+      <PackagePath>Assets\bag.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ramodhkumar.k\Desktop\Health&amp;Glow\HealthAndGlow-3-4\HealthAndGlow\HealthAndGlow\Assets\BuyNowButton.png">
+      <PackagePath>Assets\BuyNowButton.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ramodhkumar.k\Desktop\Health&amp;Glow\HealthAndGlow-3-4\HealthAndGlow\HealthAndGlow\Assets\delete.png">
+      <PackagePath>Assets\delete.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ramodhkumar.k\Desktop\Health&amp;Glow\HealthAndGlow-3-4\HealthAndGlow\HealthAndGlow\Assets\feature.search.png">
+      <PackagePath>Assets\feature.search.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ramodhkumar.k\Desktop\Health&amp;Glow\HealthAndGlow-3-4\HealthAndGlow\HealthAndGlow\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ramodhkumar.k\Desktop\Health&amp;Glow\HealthAndGlow-3-4\HealthAndGlow\HealthAndGlow\Assets\minus.png">
+      <PackagePath>Assets\minus.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ramodhkumar.k\Desktop\Health&amp;Glow\HealthAndGlow-3-4\HealthAndGlow\HealthAndGlow\Assets\plus.png">
+      <PackagePath>Assets\plus.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ramodhkumar.k\Desktop\Health&amp;Glow\HealthAndGlow-3-4\HealthAndGlow\HealthAndGlow\Assets\Product.png">
+      <PackagePath>Assets\Product.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ramodhkumar.k\Desktop\Health&amp;Glow\HealthAndGlow-3-4\HealthAndGlow\HealthAndGlow\Assets\Product1.png">
+      <PackagePath>Assets\Product1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ramodhkumar.k\Desktop\Health&amp;Glow\HealthAndGlow-3-4\HealthAndGlow\HealthAndGlow\Assets\product2.png">
+      <PackagePath>Assets\product2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ramodhkumar.k\Desktop\Health&amp;Glow\HealthAndGlow-3-4\HealthAndGlow\HealthAndGlow\Assets\product3.png">
+      <PackagePath>Assets\product3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ramodhkumar.k\Desktop\Health&amp;Glow\HealthAndGlow-3-4\HealthAndGlow\HealthAndGlow\Assets\sampleproductImage.png">
+      <PackagePath>Assets\sampleproductImage.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ramodhkumar.k\Desktop\Health&amp;Glow\HealthAndGlow-3-4\HealthAndGlow\HealthAndGlow\Assets\share.png">
+      <PackagePath>Assets\share.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ramodhkumar.k\Desktop\Health&amp;Glow\HealthAndGlow-3-4\HealthAndGlow\HealthAndGlow\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ramodhkumar.k\Desktop\Health&amp;Glow\HealthAndGlow-3-4\HealthAndGlow\HealthAndGlow\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ramodhkumar.k\Desktop\Health&amp;Glow\HealthAndGlow-3-4\HealthAndGlow\HealthAndGlow\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ramodhkumar.k\Desktop\Health&amp;Glow\HealthAndGlow-3-4\HealthAndGlow\HealthAndGlow\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ramodhkumar.k\Desktop\Health&amp;Glow\HealthAndGlow-3-4\HealthAndGlow\HealthAndGlow\Assets\test.png">
+      <PackagePath>Assets\test.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ramodhkumar.k\Desktop\Health&amp;Glow\HealthAndGlow-3-4\HealthAndGlow\HealthAndGlow\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ramodhkumar.k\Desktop\Health&amp;Glow\HealthAndGlow-3-4\HealthAndGlow\HealthAndGlow\Assets\deals1.jpg">
+      <PackagePath>Assets\deals1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ramodhkumar.k\Desktop\Health&amp;Glow\HealthAndGlow-3-4\HealthAndGlow\HealthAndGlow\Assets\deals2.jpg">
+      <PackagePath>Assets\deals2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ramodhkumar.k\Desktop\Health&amp;Glow\HealthAndGlow-3-4\HealthAndGlow\HealthAndGlow\Assets\deals3.jpg">
+      <PackagePath>Assets\deals3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ramodhkumar.k\Desktop\Health&amp;Glow\HealthAndGlow-3-4\HealthAndGlow\HealthAndGlow\Assets\deals4.jpg">
+      <PackagePath>Assets\deals4.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ramodhkumar.k\Desktop\Health&amp;Glow\HealthAndGlow-3-4\HealthAndGlow\HealthAndGlow\Assets\levis_jeans.jpg">
+      <PackagePath>Assets\levis_jeans.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ramodhkumar.k\Desktop\Health&amp;Glow\HealthAndGlow-3-4\HealthAndGlow\HealthAndGlow\Assets\logo.jpg">
+      <PackagePath>Assets\logo.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ramodhkumar.k\Desktop\Health&amp;Glow\HealthAndGlow-3-4\HealthAndGlow\HealthAndGlow\Assets\offer1.jpg">
+      <PackagePath>Assets\offer1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ramodhkumar.k\Desktop\Health&amp;Glow\HealthAndGlow-3-4\HealthAndGlow\HealthAndGlow\Assets\offer2.jpg">
+      <PackagePath>Assets\offer2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ramodhkumar.k\Desktop\Health&amp;Glow\HealthAndGlow-3-4\HealthAndGlow\HealthAndGlow\Assets\offer5.jpg">
+      <PackagePath>Assets\offer5.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ramodhkumar.k\Desktop\Health&amp;Glow\HealthAndGlow-3-4\HealthAndGlow\HealthAndGlow\Assets\products.jpg">
+      <PackagePath>Assets\products.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ramodhkumar.k\Desktop\Health&amp;Glow\HealthAndGlow-3-4\HealthAndGlow\HealthAndGlow\Assets\products2.jpg">
+      <PackagePath>Assets\products2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ramodhkumar.k\Desktop\Health&amp;Glow\HealthAndGlow-3-4\HealthAndGlow\HealthAndGlow\Assets\products3.jpg">
+      <PackagePath>Assets\products3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ramodhkumar.k\Desktop\Health&amp;Glow\HealthAndGlow-3-4\HealthAndGlow\HealthAndGlow\Assets\products4.jpg">
+      <PackagePath>Assets\products4.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ramodhkumar.k\Desktop\Health&amp;Glow\HealthAndGlow-3-4\HealthAndGlow\HealthAndGlow\Assets\products5.jpg">
+      <PackagePath>Assets\products5.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ramodhkumar.k\Desktop\Health&amp;Glow\HealthAndGlow-3-4\HealthAndGlow\HealthAndGlow\Assets\Sony_hdd.jpg">
+      <PackagePath>Assets\Sony_hdd.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ramodhkumar.k\Desktop\Health&amp;Glow\HealthAndGlow-3-4\HealthAndGlow\HealthAndGlow\Assets\hp16gb.jpeg">
+      <PackagePath>Assets\hp16gb.jpeg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ramodhkumar.k\Desktop\Health&amp;Glow\HealthAndGlow-3-4\HealthAndGlow\HealthAndGlow\Assets\hp8gb.jpeg">
+      <PackagePath>Assets\hp8gb.jpeg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ramodhkumar.k\Desktop\Health&amp;Glow\HealthAndGlow-3-4\HealthAndGlow\HealthAndGlow\Assets\offer3.gif">
+      <PackagePath>Assets\offer3.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ramodhkumar.k\Desktop\Health&amp;Glow\HealthAndGlow-3-4\HealthAndGlow\HealthAndGlow\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ramodhkumar.k\Desktop\Health&amp;Glow\HealthAndGlow-3-4\HealthAndGlow\HealthAndGlow\ReadMe.Coding4Fun.Toolkit.txt">
+      <PackagePath>ReadMe.Coding4Fun.Toolkit.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ramodhkumar.k\Desktop\Health&amp;Glow\HealthAndGlow-3-4\HealthAndGlow\HealthAndGlow\StoreManifest.xml">
+      <PackagePath>StoreManifest.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ramodhkumar.k\Desktop\Health&amp;Glow\HealthAndGlow-3-4\HealthAndGlow\HealthAndGlow\DataModel\CategoryData.json">
+      <PackagePath>DataModel\CategoryData.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ramodhkumar.k\Desktop\Health&amp;Glow\HealthAndGlow-3-4\HealthAndGlow\HealthAndGlow\DataModel\SampleData.json">
+      <PackagePath>DataModel\SampleData.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ramodhkumar.k\Desktop\Health&amp;Glow\HealthAndGlow-3-4\HealthAndGlow\HealthAndGlow\DataModel\ProductData.json">
+      <PackagePath>DataModel\ProductData.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ramodhkumar.k\Desktop\Health&amp;Glow\HealthAndGlow-3-4\HealthAndGlow\HealthAndGlow\DataModel\ShopNow.json">
+      <PackagePath>DataModel\ShopNow.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ramodhkumar.k\Desktop\Health&amp;Glow\HealthAndGlow-3-4\HealthAndGlow\HealthAndGlow\DataModel\OffersAndDeals.json">
+      <PackagePath>DataModel\OffersAndDeals.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ramodhkumar.k\Desktop\Health&amp;Glow\HealthAndGlow-3-4\HealthAndGlow\HealthAndGlow\DataModel\DealsData.json">
+      <PackagePath>DataModel\DealsData.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ramodhkumar.k\Desktop\Health&amp;Glow\HealthAndGlow-3-4\HealthAndGlow\HealthAndGlow\DataModel\OffersData.json">
+      <PackagePath>DataModel\OffersData.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ramodhkumar.k\Desktop\Health&amp;Glow\HealthAndGlow-3-4\HealthAndGlow\HealthAndGlow\DataModel\SearchProductsData.json">
+      <PackagePath>DataModel\SearchProductsData.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ramodhkumar.k\Desktop\Health&amp;Glow\HealthAndGlow-3-4\HealthAndGlow\HealthAndGlow\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ramodhkumar.k\Desktop\Health&amp;Glow\HealthAndGlow-3-4\HealthAndGlow\HealthAndGlow\bin\Debug\ItemPage.xbf">
+      <PackagePath>ItemPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ramodhkumar.k\Desktop\Health&amp;Glow\HealthAndGlow-3-4\HealthAndGlow\HealthAndGlow\bin\Debug\PivotPage.xbf">
+      <PackagePath>PivotPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ramodhkumar.k\Desktop\Health&amp;Glow\HealthAndGlow-3-4\HealthAndGlow\HealthAndGlow\bin\Debug\Styles\JumpList.xbf">
+      <PackagePath>Styles\JumpList.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ramodhkumar.k\Desktop\Health&amp;Glow\HealthAndGlow-3-4\HealthAndGlow\HealthAndGlow\bin\Debug\Views\Cart.xbf">
+      <PackagePath>Views\Cart.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ramodhkumar.k\Desktop\Health&amp;Glow\HealthAndGlow-3-4\HealthAndGlow\HealthAndGlow\bin\Debug\Views\ProductDetailScreen.xbf">
+      <PackagePath>Views\ProductDetailScreen.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ramodhkumar.k\Desktop\Health&amp;Glow\HealthAndGlow-3-4\HealthAndGlow\HealthAndGlow\bin\Debug\Views\ProductsScreen.xbf">
+      <PackagePath>Views\ProductsScreen.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ramodhkumar.k\Desktop\Health&amp;Glow\HealthAndGlow-3-4\HealthAndGlow\HealthAndGlow\bin\Debug\Views\SearchResults.xbf">
+      <PackagePath>Views\SearchResults.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ramodhkumar.k\Desktop\Health&amp;Glow\HealthAndGlow-3-4\HealthAndGlow\HealthAndGlow\bin\Debug\Views\ShopNowScreen.xbf">
+      <PackagePath>Views\ShopNowScreen.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ramodhkumar.k\Desktop\Health&amp;Glow\HealthAndGlow-3-4\HealthAndGlow\HealthAndGlow\bin\Debug\Views\SubCategoryScreen.xbf">
+      <PackagePath>Views\SubCategoryScreen.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ramodhkumar.k\Desktop\Health&amp;Glow\HealthAndGlow-3-4\HealthAndGlow\HealthAndGlow\bin\Debug\Views\TitleBar.xbf">
+      <PackagePath>Views\TitleBar.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ramodhkumar.k\Desktop\Health&amp;Glow\HealthAndGlow-3-4\HealthAndGlow\HealthAndGlow\bin\Debug\HealthAndGlow.xr.xml">
+      <PackagePath>HealthAndGlow.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ramodhkumar.k\Desktop\Health&amp;Glow\HealthAndGlow-3-4\HealthAndGlow\packages\Coding4Fun.Toolkit.Controls.2.1.0\lib\wpa81\Coding4Fun.Toolkit.Controls\Coding4Fun.Toolkit.Controls.xr.xml">
+      <PackagePath>Coding4Fun.Toolkit.Controls\Coding4Fun.Toolkit.Controls.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ramodhkumar.k\Desktop\Health&amp;Glow\HealthAndGlow-3-4\HealthAndGlow\packages\Coding4Fun.Toolkit.Controls.2.1.0\lib\wpa81\Coding4Fun.Toolkit.Controls\Themes\Generic.xbf">
+      <PackagePath>Coding4Fun.Toolkit.Controls\Themes\Generic.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ramodhkumar.k\Desktop\Health&amp;Glow\HealthAndGlow-3-4\HealthAndGlow\HealthAndGlow\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

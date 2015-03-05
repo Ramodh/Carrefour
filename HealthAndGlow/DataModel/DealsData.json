@@ -1,0 +1,60 @@
+﻿{
+    "bestdeal": [
+        {
+            "catalog_id": "1",
+            "category_id": "12",
+            "subcategory_id": "123",
+            "sku_name": "Ashvagandha Anti septic cream",
+            "sku_id": "1",
+            "sku_price": "799",
+            "sku_offer_price": "499",
+            "sku_discount": "40",
+            "sku_currency": "INR",
+            "sku_available_unit": "10",
+            "sku_offer_desc": "Get 10% off  on all future shipments of this item",
+            "sku_image_urls": "/Assets/deals1.jpg"
+        },
+        {
+            "catalog_id": "2",
+            "category_id": "23",
+            "subcategory_id": "234",
+            "sku_name": "Happo Kidz",
+            "sku_id": "1",
+            "sku_price": "799",
+            "sku_offer_price": "499",
+            "sku_discount": "40",
+            "sku_currency": "INR",
+            "sku_available_unit": "10",
+            "sku_offer_desc": "Get 10% off  on all future shipments of this item",
+            "sku_image_urls": "/Assets/deals2.jpg"
+        },
+        {
+            "catalog_id": "3",
+            "category_id": "23",
+            "subcategory_id": "234",
+            "sku_name": "Royal Egyptian Amber & Honeysuckle",
+            "sku_id": "1",
+            "sku_price": "799",
+            "sku_offer_price": "499",
+            "sku_discount": "40",
+            "sku_currency": "INR",
+            "sku_available_unit": "10",
+            "sku_offer_desc": "Get 10% off  on all future shipments of this item",
+            "sku_image_urls": "/Assets/deals3.jpg"
+        },
+        {
+            "catalog_id": "4",
+            "category_id": "23",
+            "subcategory_id": "234",
+            "sku_name": "Lotus sun screen lotion",
+            "sku_id": "1",
+            "sku_price": "799",
+            "sku_offer_price": "499",
+            "sku_discount": "40",
+            "sku_currency": "INR",
+            "sku_available_unit": "10",
+            "sku_offer_desc": "Get 10% off  on all future shipments of this item",
+            "sku_image_urls": "/Assets/deals4.jpg"
+        }
+    ]
+}

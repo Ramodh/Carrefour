@@ -1,0 +1,63 @@
+﻿{
+    "searched": [
+        {
+            "sku_name": "Sony External Harddisk",
+            "sku_id": "1",
+            "sku_img_url": "nourl",
+            "sku_price": "799",
+            "sku_offer_price": "499",
+            "sku_currency": "INR",
+            "sku_available_unit": "10",
+            "sku_offer_desc": "Get 10% off  on all future shipments of this item",
+            "sku_product_information": "Lucy B's Royal  Honeysuckle roll-on oil is....",
+            "sku_ingredients": "Aqua (Water), Hydrogenated Polyisobutene",
+            "sku_directions": "",
+            "image_url":  "/Assets/Sony_hdd.jpg"                
+            
+        },
+        {
+            "sku_name": "Hp 8 Gb Pendrive",
+            "sku_id": "1",
+            "sku_img_url": "nourl",
+            "sku_price": "799",
+            "sku_offer_price": "499",
+            "sku_currency": "INR",
+            "sku_available_unit": "10",
+            "sku_offer_desc": "Get 10% off  on all future shipments of this item",
+            "sku_product_information": "Lucy B's Royal  Honeysuckle roll-on oil is....",
+            "sku_ingredients": "Aqua (Water), Hydrogenated Polyisobutene",
+            "sku_directions": "",
+            "image_url": "/Assets/hp8gb.jpeg"               
+            
+        },
+        {
+            "sku_name": "Levis Jeans",
+            "sku_id": "1",
+            "sku_img_url": "nourl",
+            "sku_price": "799",
+            "sku_offer_price": "499",
+            "sku_currency": "INR",
+            "sku_available_unit": "10",
+            "sku_offer_desc": "Get 10% off  on all future shipments of this item",
+            "sku_product_information": "Lucy B's Royal  Honeysuckle roll-on oil is....",
+            "sku_ingredients": "Aqua (Water), Hydrogenated Polyisobutene",
+            "sku_directions": "",
+            "image_url": "/Assets/levis_jeans.jpg"              
+        },
+        {
+            "sku_name": "Hp 16 Gb Pendrive",
+            "sku_id": "1",
+            "sku_img_url": "nourl",
+            "sku_price": "1099",
+            "sku_offer_price": "499",
+            "sku_currency": "INR",
+            "sku_available_unit": "10",
+            "sku_offer_desc": "Get 10% off  on all future shipments of this item",
+            "sku_product_information": "Lucy B's Royal  Honeysuckle roll-on oil is....",
+            "sku_ingredients": "Aqua (Water), Hydrogenated Polyisobutene",
+            "sku_directions": "",
+            "image_url" : "/Assets/hp16gb.jpeg"               
+        }
+    ]
+
+}

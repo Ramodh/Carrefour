@@ -1,0 +1,58 @@
+{  
+     "data": [
+        {
+            "dealsoftheday": [
+                {
+                    "catalog_id": "123",
+                    "category_id": "123",
+                    "subcategory_id": "123",
+                    "sku_name": "Royal Egyptian Amber & Honeysuckle",
+                    "sku_id": "1",
+                    "sku_price": "799",
+                    "sku_offer_price": "499",
+                    "sku_discount": "40",
+                    "sku_currency": "INR",
+                    "sku_available_unit": "10",
+                    "sku_offer_desc": "Get 10% off  on all future shipments of this item",
+                    "sku_image_urls": "http://www.beautyhabit.com/media/lucyb_rollon_main.jpg"
+                }
+            ]
+        },
+        {
+            "ourfavorites": [
+                {
+                    "catalog_id": "123",
+                    "category_id": "123",
+                    "subcategory_id": "123",
+                    "sku_name": "Royal Egyptian Amber & Honeysuckle",
+                    "sku_id": "1",
+                    "sku_price": "799",
+                    "sku_offer_price": "499",
+                    "sku_discount": "40",
+                    "sku_currency": "INR",
+                    "sku_available_unit": "10",
+                    "sku_offer_desc": "Get 10% off  on all future shipments of this item",
+                    "sku_image_urls": "http://www.beautyhabit.com/media/lucyb_rollon_main.jpg"
+                }
+            ]
+        },
+        {
+            "justout": [
+                {
+                    "catalog_id": "123",
+                    "category_id": "123",
+                    "subcategory_id": "123",
+                    "sku_name": "Royal Egyptian Amber & Honeysuckle",
+                    "sku_id": "1",
+                    "sku_price": "799",
+                    "sku_offer_price": "499",
+                    "sku_discount": "40",
+                    "sku_currency": "INR",
+                    "sku_available_unit": "10",
+                    "sku_offer_desc": "Get 10% off  on all future shipments of this item",
+                    "sku_image_urls": "http://www.beautyhabit.com/media/lucyb_rollon_main.jpg"
+                }
+            ]
+        }
+    ]
+}

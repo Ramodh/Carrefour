@@ -1,0 +1,102 @@
+﻿{
+ "data": [
+        {
+            "catalog_id": "123",
+            "category_id": "123",
+            "subcategory_id": "123",
+            "sku_name": "Royal Egyptian Amber & Honeysuckle",
+            "sku_id": "1",
+            "sku_price": "799",
+            "sku_offer_price": "499",
+            "sku_discount": "40",
+            "sku_currency": "INR",
+            "sku_available_unit": "10",
+            "sku_offer_desc": "Get 10% off  on all future shipments of this item",
+            "sku_image_urls": "/Assets/products.jpg"
+        },
+    {
+        "catalog_id": "123",
+        "category_id": "123",
+        "subcategory_id": "123",
+        "sku_name": "Royal Egyptian Amber & Honeysuckle",
+        "sku_id": "1",
+        "sku_price": "799",
+        "sku_offer_price": "499",
+        "sku_discount": "40",
+        "sku_currency": "INR",
+        "sku_available_unit": "10",
+        "sku_offer_desc": "Get 10% off  on all future shipments of this item",
+        "sku_image_urls": "/Assets/products2.jpg"
+    },
+    {
+        "catalog_id": "123",
+        "category_id": "123",
+        "subcategory_id": "123",
+        "sku_name": "Royal Egyptian Amber & Honeysuckle",
+        "sku_id": "1",
+        "sku_price": "799",
+        "sku_offer_price": "499",
+        "sku_discount": "40",
+        "sku_currency": "INR",
+        "sku_available_unit": "10",
+        "sku_offer_desc": "Get 10% off  on all future shipments of this item",
+        "sku_image_urls": "/Assets/products3.jpg"
+    },
+    {
+        "catalog_id": "123",
+        "category_id": "123",
+        "subcategory_id": "123",
+        "sku_name": "Royal Egyptian Amber & Honeysuckle",
+        "sku_id": "1",
+        "sku_price": "799",
+        "sku_offer_price": "499",
+        "sku_discount": "40",
+        "sku_currency": "INR",
+        "sku_available_unit": "10",
+        "sku_offer_desc": "Get 10% off  on all future shipments of this item",
+        "sku_image_urls": "/Assets/products4.jpg"
+    },
+    {
+        "catalog_id": "123",
+        "category_id": "123",
+        "subcategory_id": "123",
+        "sku_name": "Royal Egyptian Amber & Honeysuckle",
+        "sku_id": "1",
+        "sku_price": "799",
+        "sku_offer_price": "499",
+        "sku_discount": "40",
+        "sku_currency": "INR",
+        "sku_available_unit": "10",
+        "sku_offer_desc": "Get 10% off  on all future shipments of this item",
+        "sku_image_urls": "/Assets/products5.jpg"
+    },
+    {
+        "catalog_id": "123",
+        "category_id": "123",
+        "subcategory_id": "123",
+        "sku_name": "Royal Egyptian Amber & Honeysuckle",
+        "sku_id": "1",
+        "sku_price": "799",
+        "sku_offer_price": "499",
+        "sku_discount": "40",
+        "sku_currency": "INR",
+        "sku_available_unit": "10",
+        "sku_offer_desc": "Get 10% off  on all future shipments of this item",
+        "sku_image_urls": "/Assets/products.jpg"
+    },
+    {
+            "catalog_id": "123",
+            "category_id": "123",
+            "subcategory_id": "123",
+            "sku_name": "Royal Egyptian Amber & Honeysuckle",
+            "sku_id": "1",
+            "sku_price": "799",
+            "sku_offer_price": "499",
+            "sku_discount": "40",
+            "sku_currency": "INR",
+            "sku_available_unit": "10",
+            "sku_offer_desc": "Get 10% off  on all future shipments of this item",
+            "sku_image_urls": "/Assets/products2.jpg"
+        }
+    ]
+}
